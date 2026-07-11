@@ -17,10 +17,10 @@
       <div class="row q-col-gutter-md full-width q-px-md">
         
         <!-- Tarjeta: Brazos -->
-        <div class="col-12 col-sm-6 col-md-3 flex items-stretch">
+        <div class="col-12 col-sm-6 flex items-stretch">
           <q-card class="gym-card text-center q-pa-lg full-width flex column justify-between">
-            <q-card-section class="q-pa-none">
-              <div class="text-h5 text-weight-bolder q-mb-md text-tracking">BRAZOS</div>
+            <q-card-section class="q-pa-none flex column justify-center items-center">
+              <div class="text-h5 text-weight-bolder q-mb-md text-tracking text-neon">BRAZOS</div>
               <p class="text-grey-4 text-body2">Bíceps y Tríceps de acero para romper tus límites.</p>
             </q-card-section>
             
@@ -31,10 +31,10 @@
         </div>
 
         <!-- Tarjeta: Piernas -->
-        <div class="col-12 col-sm-6 col-md-3 flex items-stretch">
-          <q-card class="gym-card text-center q-p pa-lg full-width flex column justify-between">
-            <q-card-section class="q-pa-none">
-              <div class="text-h5 text-weight-bolder q-mb-md text-tracking">PIERNAS</div>
+        <div class="col-12 col-sm-6 flex items-stretch">
+          <q-card class="gym-card text-center q-pa-lg full-width flex column justify-between">
+            <q-card-section class="q-pa-none flex column justify-center items-center">
+              <div class="text-h5 text-weight-bolder q-mb-md text-tracking text-neon">PIERNAS</div>
               <p class="text-grey-4 text-body2">Construye una base sólida y potente.</p>
             </q-card-section>
             
@@ -45,10 +45,10 @@
         </div>
 
         <!-- Tarjeta: Pecho -->
-        <div class="col-12 col-sm-6 col-md-3 flex items-stretch">
-          <q-card class="gym-card text-center q-p a-lg full-width flex column justify-between">
-            <q-card-section class="q-pa-none">
-              <div class="text-h5 text-weight-bolder q-mb-md text-tracking">PECHO</div>
+        <div class="col-12 col-sm-6 flex items-stretch">
+          <q-card class="gym-card text-center q-pa-lg full-width flex column justify-between">
+            <q-card-section class="q-pa-none flex column justify-center items-center">
+              <div class="text-h5 text-weight-bolder q-mb-md text-tracking text-neon">PECHO</div>
               <p class="text-grey-4 text-body2">Volumen, fuerza y densidad pectoral total.</p>
             </q-card-section>
             
@@ -59,10 +59,10 @@
         </div>
 
         <!-- Tarjeta: Espalda -->
-        <div class="col-12 col-sm-6 col-md-3 flex items-stretch">
+        <div class="col-12 col-sm-6 flex items-stretch">
           <q-card class="gym-card text-center q-pa-lg full-width flex column justify-between">
-            <q-card-section class="q-pa-none">
-              <div class="text-h5 text-weight-bolder q-mb-md text-tracking">ESPALDA</div>
+            <q-card-section class="q-pa-none flex column justify-center items-center">
+              <div class="text-h5 text-weight-bolder q-mb-md text-tracking text-neon">ESPALDA</div>
               <p class="text-grey-4 text-body2">Amplitud y control en la zona posterior.</p>
             </q-card-section>
             
